@@ -1,5 +1,5 @@
-Hello Git! 222222222222
-Hello Git! 333333333333
+Hello Git! 222222
+Hello Git! 333333
 Hello Git!
 Hello Git!
 Hello Git!
